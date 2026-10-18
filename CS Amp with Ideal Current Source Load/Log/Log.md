@@ -3,19 +3,19 @@
 - To test the amplifier, an arbitrary in range value for W and L for both the MOS transistors were chosen. This should be changed later on.
 - Initially the signal was distorted and it turned out the gain was too high and as a result the MOS transistor wouldn't remain in saturation. Lowering the input voltage fixed this issue. 
 - The low frequency response is poor. There should be a way to resolve this.
-![[PoorLowFreq.png|678]]
+![678](../Attachments/PoorLowFreq.png)
 
 11/10/2026
 - The body terminals were not connected properly and upon fixing this, the frequency response got better i.e., the low frequency response improved.
 
-![[ImprovedFreResponse.png]]
+![ImprovedFreResponse](../Attachments/ImprovedFreResponse.png)
 
 - Initially, the junction capacitance (Csb and Cdb) were 0, that was because the drain and source parameters like area and perimeter were not defined. Upon defining the parameters, the junction capacitances were no longer 0. 
 - Cgd for the given bias is 0. It is because MOS transistor is in saturation, the channel at the drain end is pinched off and thus there is no gate - channel - drain capacitance. But, there is still a gate to drain capacitance which is the overlap capacitance. 
 
 12/10/2026
 - Designed the circuit properly by choosing proper values for W and L. Initially the gain was 3 db off the calculations. This was attributed to the loading of the signal at the input side due to the relatively low impedance looking into the current mirror. This was fixed by using a different config shown below.
-![[FinalCircuit.png]]
+![FinalCircuit](../Attachments/FinalCircuit.png)
 
 - All the results obtained were thus satisfactory and close to hand calculations from biasing to gain to bandwidth.
 

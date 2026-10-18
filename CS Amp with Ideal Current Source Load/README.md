@@ -6,15 +6,15 @@ The project is targeted towards designing a CS amplifier using an ideal current 
 
 ## Design Specifications
 
-| Parameter               | Symbol     | Given/Target Value | Unit        |
-| ----------------------- | ---------- | ------------------ | ----------- |
-| **Supply Voltage**      | $V_{DD}$   | 3                  | V           |
-| **Bias Current Source** | $I_{bias}$ | 10                 | µA          |
-| **Power Budget**        | $P_{dc}$   | $\le$ 360          | µW          |
-| **Technology Node**     | $L_{min}$  | 0.5                | µm          |
-| **Voltage Gain**        | $A_v$      | 250                | V/V (or dB) |
-| **Load Resistance**     | $R_L$      | 1                  | MΩ          |
-| **Load Capacitance**    | $C_L$      | 50                 | fF          |
+| Parameter               | Symbol     | Given/Target Value | Unit |
+| ----------------------- | ---------- | ------------------ | ---- |
+| **Supply Voltage**      | $V_{DD}$   | 3                  | V    |
+| **Bias Current Source** | $I_{bias}$ | 10                 | µA   |
+| **Power Budget**        | $P_{dc}$   | $\le$ 360          | µW   |
+| **Technology Node**     | $L_{min}$  | 0.5                | µm   |
+| **Voltage Gain**        | $A_v$      | 250                | V/V  |
+| **Load Resistance**     | $R_L$      | 1                  | MΩ   |
+| **Load Capacitance**    | $C_L$      | 50                 | fF   |
 
 ## Simulation Results
 
