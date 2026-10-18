@@ -28,25 +28,25 @@ The project is targeted towards designing a CS amplifier using an ideal current 
 
 ### 1. Circuit Schematic
 
-![Circuit Schematic](attachments/schematic.png)
+![Circuit Schematic](Attachments/Schematic.png)
 
 ### 2. DC Analysis & Operating Point
 
-![DC Analysis](attachments/BiasParameters.png)
+![DC Analysis](Attachments/BiasParameters.png)
 
 ### 3. AC Analysis (Bode Plot)
 
-![AC Analysis|700](attachments/ACResponse.png)
+![AC Analysis|700](Attachments/ACResponse.png)
 
 Parametric AC Response with W as a parameter
-![AC Analysis](GainBandwidthPlot.png)
+![AC Analysis](Attachments/GainBandwidthPlot.png)
 
-![AC Analysis](GainBandwidthMeasurement.png)
+![AC Analysis](Attachments/GainBandwidthMeasurement.png)
 
 Note: W is varied from 1µm to 5µm in steps of 1µm.
 ### 4. Transient Analysis
 
-![Transient Analysis](attachments/TransientResponse.png)
+![Transient Analysis](Attachments/TransientResponse.png)
 
 ## Key Observations, Inferences & Takeaways
 
