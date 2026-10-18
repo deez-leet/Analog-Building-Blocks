@@ -62,5 +62,3 @@ Note: W is varied from 1µm to 5µm in steps of 1µm.
 
 * **Future Work:**
   * Implementation using accurate and realistic BSIM3/BSIM4 models, and moving to a smaller technology nodes like 180nm.
-
-
