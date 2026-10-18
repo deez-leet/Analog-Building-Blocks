@@ -191,6 +191,8 @@
   },
   "active": "cfa124aed6fe3cbb",
   "lastOpenFiles": [
+    "test.md",
+    "New Text Document.txt",
     "Log/Log.md",
     "Attachments/TransientResponse.png",
     "Attachments/Schematic.png",
@@ -211,7 +213,6 @@
     "Simulations/Biasing.raw",
     "Simulations/Biasing.asc",
     "Simulations/Test.op.raw",
-    "Simulations/Test.net",
-    "Simulations/Amp.plt"
+    "Simulations/Test.net"
   ]
 }
