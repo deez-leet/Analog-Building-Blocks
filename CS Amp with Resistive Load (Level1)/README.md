@@ -2,7 +2,7 @@
 
 ## Overview
 
-The project is targeted towards designing a CS amplifier using a resistive load . 0.5µm technology process node is used for the design. The main aim is to obtain a high bandwidth. 
+The project is targeted towards designing a CS amplifier using resistive load . Technology process node used for the design is 0.5µm. 
 
 ## Design Specifications
 
