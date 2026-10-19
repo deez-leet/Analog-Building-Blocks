@@ -46,14 +46,14 @@ The project is targeted towards designing a CS amplifier using resistive load . 
 Transient Response with variation in input signal
 ![Transient Analysis](Attachments/TransientResponse2.png)
 
-It can observed that when $V_{sig}$ goes beyond 100 mV, the output signal starts to clip on the negative side. 
+It can be observed that when $V_{sig}$ goes beyond 100 mV, the output signal starts to clip on the negative side. 
 ## Key Observations, Inferences & Takeaways
 
 * **Trade-off between Gain and Bandwidth:** There is a clear tradeoff between gain and bandwidth. As the gain increases the bandwidth decreases. 
 
-* **Sizing and Resistance Impact:** Sizing and drain resistance impacts both gain and bandwidth. gain is proportional to $\sqrt{W/L}$ $R_{D}$  and bandwidth is proportional to $W^{-1}L^{-1}$ $R_{D}$. 
+* **Sizing and Resistance Impact:** Sizing and drain resistance impacts both gain and bandwidth. gain is proportional to $\sqrt{W/L}$ $R_{D}$  and bandwidth is proportional to $W^{-1}L^{-1}$ $R_{D}^{-1}$. 
 
-- **Input Swing:** $R_{D}$  also determines the swing. If $R_{D}$  is higher $V_{DS}$ is lower and thus the swing on negative side reduces. It can be observed that when $V_{sig}$  goes beyond 100 mV, the output signal starts to clip on the negative side, due to the MOS device no longer being in saturation.
+- **Input Swing:** $R_{D}$  also determines the swing. If $R_{D}$  is higher, then $V_{DS}$ is lower and thus the swing on negative side reduces. It can be observed that when $V_{sig}$  goes beyond 100 mV, the output signal starts to clip on the negative side, due to the MOS device no longer being in saturation.
 
 ## Note and Future Improvements
 
