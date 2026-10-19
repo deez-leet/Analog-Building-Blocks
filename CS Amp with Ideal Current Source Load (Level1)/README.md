@@ -50,7 +50,7 @@ Note: W is varied from 1µm to 5µm in steps of 1µm.
 
 ## Key Observations, Inferences & Takeaways
 
-* **Trade-off between Gain and Bandwidth:** There is a clear tradeoff between gain and bandwidth. As the gain increases the bandwidth decreases. 
+* **Trade-off between Gain and Bandwidth:** There is a clear tradeoff between gain and bandwidth. As the gain increases, the bandwidth decreases. 
 
 * **Loading:** The gain was lower than expected because of the load resistance. 
 
