@@ -46,7 +46,7 @@ The project is targeted towards designing a CS amplifier using a resistive load 
 Transient Response with variation in input signal
 ![Transient Analysis](Attachments/TransientResponse2.png)
 
-From the plot, we can observe that V$sig$ beyond 100 mV causes the output signal to clip on the negative side. 
+From the plot, we can observe that *$V_{sig}$* beyond 100 mV causes the output signal to clip on the negative side. 
 ## Key Observations, Inferences & Takeaways
 
 * **Trade-off between Gain and Bandwidth:** There is a clear tradeoff between gain and bandwidth. As the gain increases the bandwidth decreases. 
