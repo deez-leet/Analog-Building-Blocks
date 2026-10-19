@@ -47,6 +47,7 @@ Transient Response with variation in input signal
 ![Transient Analysis](Attachments/TransientResponse2.png)
 
 Note: $V_{sig}$ is varied from 50mV to 200mV in steps of 50mV.
+
 It is observed that when $V_{sig}$ goes beyond 100 mV, the output signal starts to clip on the negative side. 
 ## Key Observations, Inferences & Takeaways
 
