@@ -56,7 +56,7 @@ It is observed that when $V_{sig}$ goes beyond 25 mV, the output amplitude is lo
 
 * **Sizing and Resistance Impact:** Sizing and drain resistance impacts both gain and bandwidth. Gain is proportional to $\sqrt{W/L}$ $R_{D}$  and bandwidth is proportional to $W^{-1}L^{-1}$ $R_{D}^{-1}$. 
 
-- **Tail Current Source:** The lower end of the input voltage is determined by the tail current source, as it is requires a certain minimum voltage across it for its operation, i.e., the tail current source transistor requires a minimum overdrive voltage across it so that it can remain in saturation and act as a current source.
+- **Tail Current Source:** The lower end of the input voltage range is determined by the tail current source, as it is requires a certain minimum voltage across it for its operation, i.e., the tail current source transistor requires a minimum overdrive voltage across it so that it can remain in saturation.
 
 ## Note and Future Improvements
 
