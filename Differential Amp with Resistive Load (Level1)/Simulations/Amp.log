@@ -1,6 +1,6 @@
 LTspice 24.1.10 for Windows
-Circuit: C:\Users\Kanish\Desktop\Projects\Mini Projects\Analog Building Blocks\Differential Pair with Resistive Load (Level1)\Simulations\Amp.net
-Start Time: Wed Oct 28 00:09:44 2026
+Circuit: C:\Users\Kanish\Desktop\Projects\Mini Projects\Analog Building Blocks\Differential Amp with Resistive Load (Level1)\Simulations\Amp.net
+Start Time: Wed Oct 28 21:26:17 2026
 Options: logopinfo
 solver = Normal
 Maximum thread count: 16
@@ -56,10 +56,10 @@ Cgd:         0.00e+00    0.00e+00    0.00e+00    0.00e+00
 Cgb:         0.00e+00    0.00e+00    0.00e+00    0.00e+00
 
 
-Total elapsed time: 0.252 seconds.
+Total elapsed time: 0.197 seconds.
 
 Files loaded:
-C:\Users\Kanish\Desktop\Projects\Mini Projects\Analog Building Blocks\Differential Pair with Resistive Load (Level1)\Simulations\Amp.net
+C:\Users\Kanish\Desktop\Projects\Mini Projects\Analog Building Blocks\Differential Amp with Resistive Load (Level1)\Simulations\Amp.net
 C:\Users\Kanish\AppData\Local\LTspice\lib\cmp\standard.mos
-C:\Users\Kanish\Desktop\Projects\Mini Projects\Analog Building Blocks\Differential Pair with Resistive Load (Level1)\Simulations\lc_level1.lib
+C:\Users\Kanish\Desktop\Projects\Mini Projects\Analog Building Blocks\Differential Amp with Resistive Load (Level1)\Simulations\lc_level1.lib
 

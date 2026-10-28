@@ -16,3 +16,7 @@
 ![ComparisionPlot](../Attachments/ComparisionPlot.png)
 
 Note: Blue waveform is the differential output, Green waveform is the differential input and Red waveform is the expected differential output.
+
+28/10/2026
+- Calculated and simulated the common mode gain and estimated the CMRR. The common mode gain is only due to the finite output resistance of the tail current source. No other mismatch is present and thus common mode gain due to such mismatches is 0.
+- Frequency response of the common mode is dictated by the intrinsic capacitors of the tail current source transistor and the load capacitor.
