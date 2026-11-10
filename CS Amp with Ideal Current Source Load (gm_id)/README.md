@@ -22,7 +22,7 @@ The project is targeted towards designing a CS amplifier using an ideal current 
 | Parameter                | Expected / Target | Simulated Result | Remarks                                                                      |
 | ------------------------ | ----------------- | ---------------- | ---------------------------------------------------------------------------- |
 | **Gain (**$A_v$**)**     | **$\ge$** 10 V/V  | 11.5 V/V         | Simulated gain is higher due to the choice of gm/Id.                         |
-| **$g_m$/$I_d$**          | 10 V $^{-1}$      | 9.75 V $^{-1}$   | gm/Id was chosen such that transistor operates in moderate inversion region. |
+| **$g_m$ / $I_d$**        | 10 V $^{-1}$      | 9.75 V $^{-1}$   | gm/Id was chosen such that transistor operates in moderate inversion region. |
 | **3-dB Bandwidth**       | 10 MHz            | 8.5 MHz          | -                                                                            |
 | **Unity Gain Bandwidth** | 100 MHz           | 97 MHz           | -                                                                            |
 | **Power Budget**         | $\le$ 150  µW     | 131.4 µW         | Power Budget is satisfied                                                    |
